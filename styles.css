@@ -1,0 +1,288 @@
+body{
+  margin: 0;
+  background-color: #CCF3EE;
+  width: 100%;
+
+}
+
+h1{
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family:papyrus, fantasy;
+  font-size: 40px;
+  color: #11999E;
+/*  margin-top: 0;
+  margin-bottom: 0;
+ margin-left: 600px;*/
+}
+
+
+/*p{
+  margin-top: 0;
+}*/
+.p1{
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family:papyrus, fantasy;
+  font-size: 25px;
+  color: #11999E;
+  margin-left: 530px;
+
+
+/*  margin-left: 625px;*/
+}
+
+
+div{
+  background-color: #CCF3EE;
+  background-size: 600px;
+/* height: 400px;*/
+
+/*padding: 80px;*/
+}
+
+.top-container{
+  background-color: #CCF3EE;
+  height:700px;
+
+
+
+/*  width: 200px;
+  border: solid 10px;
+  padding: 20px;*/
+
+
+
+}
+
+.middle-container{
+
+  background-color:#CCF3EE ;
+  height: 500px;
+
+/*  border:solid 20px;
+  width:200px;
+  height: 200px;
+  margin-left: 260px;*/
+
+}
+
+.bottom-container{
+  background-color: #CCF3EE;
+  height: 300px;
+/*  border:solid 10px;
+  width: 200px;
+  height: 200px;
+  margin-left: 500px;*/
+}
+
+.web{
+  /*text-decoration: underline;*/
+  /*background-color: pink;*/
+}
+
+.mountain{
+  position: relative;
+  left: 130px;
+  top: 200px;
+}
+
+.right-cloud{
+  position: relative;
+  left: 70%;
+  bottom: 250px;
+}
+
+.left-cloud{
+  position: relative;
+  left: 120px;
+  top: 30%;
+}
+
+.right-bird{
+  position: relative;
+  left: 600px;
+}
+.left-bird{
+  position:relative;
+  left: 90%;
+}
+
+.rishabh-img{
+  position: relative;
+  bottom: -100px;
+  left: 200px;
+  padding-right: 20px;
+}
+
+.Hi{
+  font-family:papyrus, fantasy;
+  font-size: 40px;
+  color: #11999E;
+}
+.p2{
+  font-family:papyrus, fantasy;
+  font-size: 25px;
+  color: #11999E;
+}
+
+
+
+
+
+
+
+
+.column {
+  float: left;
+  width:20%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats)*/
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  position: relative;
+  top: 200px;
+
+
+
+}
+
+.s1{
+  font-family:papyrus, fantasy;
+  font-size: 30px;
+  position: relative;
+  left:300px;
+  bottom: 100px;
+  color: #11999E;
+
+
+
+}
+
+.skills-row{
+  width: 55%;
+  position: relative;
+  bottom: 5px;
+
+
+}
+.p3{
+  font-family:papyrus, fantasy;
+  font-size: 18px;
+  color: #11999E;
+}
+
+.p4{
+  font-family:papyrus, fantasy;
+  font-size: 23px;
+  color: #11999E;
+  position: relative;
+  left:300px;
+}
+
+.p5{
+  position: relative;
+  bottom: 200px;
+  font-family:papyrus, fantasy;
+  font-size: 23px;
+  color: #11999E;
+  padding-left: 300px;
+
+}
+.hobbies{
+  font-family:papyrus, fantasy;
+  font-size: 30px;
+  position: relative;
+  left:540px;
+  color: #11999E;
+}
+.edu{
+  position:relative;
+  font-family:papyrus, fantasy;
+  font-size: 30px;
+  color: #11999E;
+  bottom: 200px;
+  padding-left: 525px;
+}
+
+.skill{
+  position: relative;
+  left:600px;
+  width: 25%;
+}
+
+.work{
+  position: relative;
+  left: 800px;
+  width: 200px;
+  top: 200px;
+}
+.cricket{
+  position: relative;
+  width: 200px;
+  left: 850px;
+  bottom: 130px;
+}
+.graduate{
+  position:relative;
+  width: 200px;
+  left: 80px;
+}
+.git{
+  font-family:papyrus, fantasy;
+  font-size: 30px;
+  position: relative;
+  right: 80px;
+  left: 80px;
+  padding-left: 490px;
+
+  color: #11999E;
+}
+
+.new-skill{
+  padding-left: 150px;
+}
+
+.btn{
+  position: relative;
+  right: 80px;
+  padding-left: 400px;
+  font-size: 22px;
+  font-family:Courier New,monospace;
+  color: #11999E;
+}
+.gmail{
+  padding-right: 80px;
+  position: relative;
+  right: 70px;
+  top: 10px;
+}
+
+.phone{
+  padding-right: 80px;
+  right: 70px;
+  position: relative;
+  top: 10px;
+}
+
+.footer-link{
+  position: relative;
+  margin-left: 150px;
+  font-size: 18px;
+  font-family:Courier New,monospace;
+  color: #11999E;
+}
+
+.contact{
+  position: relative;
+  top: 10px;
+}
+.surname{
+  padding-left: 630px;
+  font-size: 20px;
+  color: #11999E;
+}
