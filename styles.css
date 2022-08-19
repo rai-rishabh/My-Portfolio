@@ -235,11 +235,7 @@ div{
 .git{
   font-family:papyrus, fantasy;
   font-size: 30px;
-  position: relative;
-  right: 80px;
-  left: 80px;
-  padding-left: 490px;
-
+  text-align: center;
   color: #11999E;
 }
 
@@ -250,7 +246,7 @@ div{
 .btn{
   position: relative;
   right: 80px;
-  padding-left: 400px;
+  padding-left: 360px;
   font-size: 22px;
   font-family:Courier New,monospace;
   color: #11999E;
